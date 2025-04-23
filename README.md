@@ -1,0 +1,1 @@
+This is Full Stack Development with AI Task 1
